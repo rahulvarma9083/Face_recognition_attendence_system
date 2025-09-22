@@ -3,7 +3,8 @@ opencv-python-headless==4.9.0.80
 pandas==2.2.2
 deepface==0.0.93
 numpy==1.26.4
-tensorflow==2.16.1
+tensorflow-cpu==2.16.1
 retina-face==0.0.17
+
 
 
